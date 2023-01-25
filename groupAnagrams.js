@@ -3,7 +3,7 @@
  * @return {string[][]}
  */
 
-strs = ["eat", "tea", "tan", "ate", "nat", "bat"]
+strs = ["aet", "tea", "tan", "ate", "nat", "bat"]
 // time complexity: O(n*k log(k) where n = length of input & k is the max length of string in the input array
 // space complexity: O(n)
 function groupAnagram1(strs) {
