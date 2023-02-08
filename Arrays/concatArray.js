@@ -5,6 +5,7 @@
 
 // update for commit
 // update commit for terminal sync
+// second try for sync
 
 nums = [1,2,1]
 // my brute force method
