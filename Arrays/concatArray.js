@@ -3,6 +3,8 @@
  * @return {number[]}
  */
 
+// update for commit
+
 nums = [1,2,1]
 // my brute force method
 function concatArray(nums) {
