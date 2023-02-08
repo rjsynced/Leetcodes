@@ -4,6 +4,7 @@
  */
 
 // update for commit
+// update commit for terminal sync
 
 nums = [1,2,1]
 // my brute force method
