@@ -29,6 +29,6 @@ function twoSumMap(nums, target) {
             map.set(nums[i], i);
         }
     }
-	return [];
+	return map
 }
 console.log(twoSumMap(nums, target));
